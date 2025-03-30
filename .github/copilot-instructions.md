@@ -26,7 +26,11 @@ If you, Copilot, are asked to write an article, please do the following:
 - Look for information on people mentioned in the article in the files under notes/people and provide helpful, relevant, or interesting info.
 - If a person is mentioned by name:
   - Check the writer(s)'s dossier(s) for connections to this person. If any is found, include an appropriate disclaimer to avoid the appearance of a conflict of interest.
-  - Then, you must first check for a corresponding file in the notes/people folder. If a file is found, you must include details from that file in the article. If no file is found and the person is a well-known public figure, you must provide a brief, relevant description of their notability unless their role or significance is already clear to a general audience. If no file is found and the person is not a well-known public figure, state that no additional information is available. That statement should be a note to the reader, not part of the article.
+  - Then, you must first check for a corresponding file in the notes/people folder.
+    - If a file is found, you must include details from that file in the article.
+    - If no file is found and the person is a well-known public figure, you must provide a brief, relevant description of their notability unless their role or significance is already clear to a general audience.
+    - If no file is found and the person is not a well-known public figure, state that no additional information is available. That statement should be a note to the reader, not part of the article.
 - If a place or institution is mentioned in the article, check for background information in the notes/places folder. Follow the above instructions on handling people named in the information you find, e.g. briefly describe public figures.
 - Let the requester know if there are additional facts that you think they should provide that would enhance the article.
+- If you look for a file and fail to find it, let the speaker know but do not stop working on the article.
 - After drafting your article, double-check that you have followed all rules, especially the ones around providing verifiable details about public figures.
