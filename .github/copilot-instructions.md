@@ -1,15 +1,15 @@
 This is an OpenJournalism repository. It is structured as follows:
 
-- org
--- officers: Each .md file is named for a job role. It includes a job description and short biographies of the current and prior holders of this title. Where the officer's name is given, it would be best if their user ID was specified, but if not, we can assume it is firstname.lastname. If the role is that of a writer or editor, their dossier file (described under "people") must include a description of their writing/editing style and process.
--- people: A series of folders named for the user ID of the person, which is normally firstname.lastname. Each should contain a folder called "samples" with a set of what they consider their iconic articles that define their writing style. Each should also contain a file called Dossier.md that includes the following sections:
---- Identity: Name, pronouns, etc.
---- Style: Writing and/or editing style, depending on this person's role(s).
---- Concerns: Organizational problems for this institution, as perceived by this person.
---- Goals: Goals personally set or derived from goals given by a leader. Goals can be institutional or personal, e.g. career path.
+* org
+  * officers: Each .md file is named for a job role. It includes a job description and short biographies of the current and prior holders of this title. Where the officer's name is given, it would be best if their user ID was specified, but if not, we can assume it is firstname.lastname. If the role is that of a writer or editor, their dossier file (described under "people") must include a description of their writing/editing style and process.
+  * people: A series of folders named for the user ID of the person, which is normally firstname.lastname. Each should contain a folder called "samples" with a set of what they consider their iconic articles that define their writing style. Each should also contain a file called Dossier.md that includes the following sections:
+   * Identity: Name, pronouns, etc.
+   * Style: Writing and/or editing style, depending on this person's role(s).
+   * Concerns: Organizational problems for this institution, as perceived by this person.
+   * Goals: Goals personally set or derived from goals given by a leader. Goals can be institutional or personal, e.g. career path.
 
-- notes
--- people: A list of .md files giving background information on people likely to appear in this publication's articles.
+* notes
+  * people: A list of .md files giving background information on people likely to appear in this publication's articles.
 
 If you, Copilot, are asked to write an article, please do the following:
 - Whenever needed, use files from the peterbaileyct/tbe repo to get more information.
