@@ -4,4 +4,6 @@ The Bristol, CT Public Library has two branches: The Main branch, at the interse
 ## Main Branch
 The main branch has two floors above-ground and a basement.
 ### Ground floor
-The ground floor of the main branch hosts, among other features, the Children's Department. The Children's Department hosts frequent events, such as author talks and craft demonstrations. It was created with the help of a generous donation from Bristol native Mike Reiss.
+The ground floor of the main branch hosts, among other features, the Children's Department. The Children's Department hosts frequent events, such as author talks and craft demonstrations.
+#### Children's department
+The children's department was created with the help of a generous donation from Bristol native Mike Reiss.
