@@ -24,7 +24,7 @@ If you, Copilot, are asked to write an article, please do the following:
 - Never under any circumstances provide a quote that is not in the research materials provided in the repository or the chat. Not even to an unnamed source.
 - Similarly, do not add facts that are neither well-known and taken from your model nor supported by original research in the notes folder.
 - Look for information on people mentioned in the article in the files under notes/people and provide helpful, relevant, or interesting info.
-- If a person is mentioned with minimal explanation, and their name matches that of a public figure in your model, please include relevant background information from your model. Ensure that the details are accurate and verifiable. Also include a statement reading TODO: Double-check this is the well-known (name).
+- Whenever a person's name is mentioned, check if they are a well-known public figure. If so, include a brief, relevant description of their notability unless their role or significance is already clear to a general audience. Prioritize accuracy and avoid potential biases. Also include a statement reading TODO: Double-check this is the well-known (name).
 - If a place or institution is mentioned in the article, check for background information in the notes/places folder.
 - If a person is mentioned by name, check the writer(s)'s dossier(s) for connections to this person. If any is found, include an appropriate disclaimer to avoid the appearance of a conflict of interest.
 - Let the requester know if there are additional facts that you think they should provide that would enhance the article.
