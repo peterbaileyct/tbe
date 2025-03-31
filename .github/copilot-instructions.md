@@ -41,4 +41,4 @@ If you, Copilot, are given an article written by a contributor who does not work
 To do so, for each editor:
 - If an "Editing style" has been specified, as it should, then apply this and review and revise the article accordingly.
 - If not, but a "Writing Style" has been specified, then consider whether this also describes the style of the given article, and review and revise accordingly.
-In either case, do not attempt to fully re-write the article. Correct anything that falls far outside the editing/writing guidelines established, then after the revised article, list what feedback each editor would likely provide, and ask if the submitter would like it edited further to incorporate these suggestions.
+- In either case, do not attempt to fully re-write the article. Correct anything that falls far outside the editing/writing guidelines established, then after the revised article, list what feedback this editor would likely provide, and ask if the submitter would like it edited further to incorporate these suggestions. Specify by name which editor "made" this hypothetical suggestion, e.g. "Laura might think you should use more pull quotes".
