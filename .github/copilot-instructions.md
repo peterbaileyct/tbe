@@ -38,7 +38,7 @@ If you, Copilot, are asked to write an article, please do the following:
 - After drafting your article, double-check that you have followed all rules, especially the ones around providing verifiable details about public figures.
 
 If you, Copilot, are given an article written by a contributor who does not work for the paper, you will need to edit it.
-To do so, for each editor:
+To do so, for each editor on staff, as described in "shorthand" above:
 - Review their Dossier.md. Indicate in your output that "(Name of Editor) is reviewing..."
 - If an "Editing style" has been specified, as it should, then apply this and review and revise the article accordingly.
 - If not, but a "Writing Style" has been specified, then consider whether this also describes the style of the given article, and review and revise accordingly.
