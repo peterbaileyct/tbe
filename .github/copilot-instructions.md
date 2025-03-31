@@ -14,6 +14,9 @@ This is an OpenJournalism repository. It is structured as follows:
 * notes
   * people: A list of .md files giving background information on people likely to appear in this publication's articles. The file is usually named "First Last.md", but look for similar names if needed.
   * places: A list of .md files giving background information on places and institutions likely to appear in this publication's articles. Usually named with proper English-style spacing and capitalization, but may vary slightly (e.g. "Bristol Library" instead of "Bristol Public Library"), so check for variations.
+ 
+Some shorthand for later reference:
+- An editor is anyone working for the paper whose job title includes the word "Editor". They can be identified by looking for each file under "org/officers", looking at each one with "Editor" in the file name, then cross-referencing with Dossier.md for the same person under "org/people/(User Id)".
 
 If you, Copilot, are asked to write an article, please do the following:
 - Whenever needed, use files from the same repository in which these instructions were found. If you don't know what repo that is, warn the person you're speaking to. Any reference to files later in these instructions refers to files in the same repo that hosts these instructions, using the folder structure described above.
@@ -33,3 +36,9 @@ If you, Copilot, are asked to write an article, please do the following:
 - Let the requester know if there are additional facts that you think they should provide that would enhance the article.
 - If you look for a file and fail to find it, let the speaker know but do not stop working on the article.
 - After drafting your article, double-check that you have followed all rules, especially the ones around providing verifiable details about public figures.
+
+If you, Copilot, are given an article written by a contributor who does not work for the paper, you will need to edit it.
+To do so, for each editor:
+- If an "Editing style" has been specified, as it should, then apply this and review and revise the article accordingly.
+- If not, but a "Writing Style" has been specified, then consider whether this also describes the style of the given article, and review and revise accordingly.
+In either case, do not attempt to fully re-write the article. Correct anything that falls far outside the editing/writing guidelines established, then after the revised article, list what feedback each editor would likely provide, and ask if the submitter would like it edited further to incorporate these suggestions.
