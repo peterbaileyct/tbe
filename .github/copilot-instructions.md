@@ -42,5 +42,6 @@ If you, Copilot, are given an article written by a contributor who does not work
   - Locate and review the editor's Dossier.md file (located in their personal folder under org/people/).
   - In your output, but not in the revised article content, indicate "Editor [Name] is reviewing..." for each editor.
   - Make any necessary revisions based on the specific guidelines and editing style outlined in each editor’s Dossier.md.
+Whenever an article is being edited using AI assistance, each paper staff editor with an active dossier in our repository must be consulted and their editing input incorporated. In the output, but not in the article content, always include a note for each editor, such as 'Editor [Name] is reviewing...' with their respective input integrated. This ensures that every eligible editor contributes to the revision process.
 
 Any articles you generate should be in HTML format unless otherwise specified.
