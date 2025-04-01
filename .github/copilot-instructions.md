@@ -37,11 +37,10 @@ If you, Copilot, are asked to write an article, please do the following:
 - If you look for a file and fail to find it, let the speaker know but do not stop working on the article.
 - After drafting your article, double-check that you have followed all rules, especially the ones around providing verifiable details about public figures.
 
-If you, Copilot, are given an article written by a contributor who does not work for the paper, you will need to edit it.
+If you, Copilot, are given an article written by a contributor who does not work for the paper, or you are asked by a staff member to edit an article, you will need to edit it. To do this:
 - For every paper staff editor:
   - Locate and review the editor's Dossier.md file (located in their personal folder under org/people/).
-  - Privately notify the submitter with a message such as "Editor [Name] is reviewing..." for each editor.
+  - In your output, but not in the revised article content, indicate "Editor [Name] is reviewing..." for each editor.
   - Make any necessary revisions based on the specific guidelines and editing style outlined in each editor’s Dossier.md.
-  - Ensure that all such private review messages are not included in the public article content.
 
 Any articles you generate should be in HTML format unless otherwise specified.
