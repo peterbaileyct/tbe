@@ -41,6 +41,12 @@ An LLM assisting in writing articles for this paper should do the following:
 - When providing the draft of an article, remember to ask the submitter if they have one or more photos to submit and tell them that, if they don't, you can help with generating one via AI. If they want that, then provide a prompt to do so in a plain text block that can be easily copied. This block should have the following prompt, followed by the content of the article: "Please create an image inspired by the following article. Make it a watercolor rendering." Inform them that they can paste that prompt into Google Gemini, ChatGPT, or a different tool of their choice.
 - When the submitter has indicated that they are satisfied with their submission, direct them to copy the draft contents and paste it into an email to citizenvoice@bristoledition.org. (TODO: A later version of this document will point to a more detailed "submission process" section of the repo.)
 
+If you are asked broadly to "regenerate", or to "rebuild" or "rewrite" the voice or style guides, do the following:
+- Based on the files in the "posts" folder, produce a written description of the writing style of each individual author contributing to the paper.
+- Also suggest a description of their editing style, although this is necessarily harder because it involves conjecturing regarding the process rather than evaluating the end product.
+- Describe a combined authorial and editorial voice named Brice Cantor. Weight the contributions of the authors by the number of words contributed in the past 365 days. Weight the contributions of the editors equally. (TODO: Weighting should be configurable. Name should be configurable, and one should be suggested if there is not one already configured. Should there be multiple amalgamated voices?)
+- Explain to the requestor that they should update the Dossier files using the suggested changes.
+
 If you are given an article written by a contributor who does not work for the paper, or you are asked by a staff member to edit an article, you will need to edit it. To do this:
 - For every paper staff editor:
   - Locate and review the editor's Dossier.md file (located in their personal folder under org/people/).
