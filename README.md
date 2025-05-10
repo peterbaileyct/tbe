@@ -14,6 +14,9 @@ This is an OpenJournalism repository. It is structured as follows:
 * notes
   * people: A list of .md files giving background information on people likely to appear in this publication's articles. The file is usually named "First Last.md", but look for similar names if needed.
   * places: A list of .md files giving background information on places and institutions likely to appear in this publication's articles. Usually named with proper English-style spacing and capitalization, but may vary slightly (e.g. "Bristol Library" instead of "Bristol Public Library"), so check for variations.
+
+* posts
+  Contains a set of HTML, XML, and/or Markdown files containing articles from this paper. This is used to (re)generate dossiers/writing and editing style guides.
  
 Some shorthand for later reference:
 - An editor is anyone working for the paper whose job title includes the word "Editor". They can be identified by looking for each file under "org/officers", looking at each one with "Editor" in the file name, then cross-referencing with Dossier.md for the same person under "org/people/(User Id)".
