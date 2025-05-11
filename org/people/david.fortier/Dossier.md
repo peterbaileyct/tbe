@@ -1,17 +1,14 @@
-# Identity: David Fortier (david.fortier)
-He/him
+### Aliases
+David Fortier, `bedzns`
 
-# Concerns
-- We lack a dedicated grant writer.
+### Categories of Writing
+Manifestos, Community Announcements, News Reports, Investigative Pieces (planned)
 
-# Goals
-- Establish a training program to turn citizens into journalists.
+### Style Guide
+* **Style Focus:** Direct, informative, and strongly community-oriented.
+* **Common Piece Types:** Writes foundational manifestos for the paper (e.g., outlining TBE's mission and journalistic ethics in "Join me! Read on!"), clear announcements for community engagement (calls for writing groups, forum announcements), and factual news reports (e.g., "'Pass the Purse' donations exceed $6,000...").
+* **Stylistic Traits:** Often employs lists for clarity, makes direct calls to action, and maintains a journalistic and ethical tone in news reporting. His drafts (e.g., "Who is making the decisions?") suggest an analytical and concrete approach to investigative topics.
+* **Keywords:** Persuasive, structured, ethical, community-centric, factual.
 
-# Connections
-- TODO: Lord knows how long this will take
-
-# Style
-## Writing Style
-David Fortier's articles, based on examination of posts covering local events and council meetings, are marked by a detailed and factual approach. His reports on official meetings (e.g., City Council) are typically thorough, meticulously outlining discussions, motions, and votes with precise attribution to speakers. He often includes direct quotes to capture key statements. When covering community events or human interest stories, the style becomes more descriptive and narrative, providing specific details that allow readers to understand the atmosphere and significance of the event. His vocabulary is clear and grounded in the context of local governance and community life. Articles often present a sequence of events or a summary of complex discussions in an understandable manner.
-
-*Typical Topics Observed in Posts:* City Council meeting summaries, Board of Finance decisions, local election coverage, community event reporting, and human interest features focused on Bristol residents and organizations.
+### Attribution
+Typically attributed as "By David Fortier."
